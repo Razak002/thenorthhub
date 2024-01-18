@@ -12,7 +12,7 @@ const config = {
    theme: {
       container: {
          center: true,
-         padding: "2rem",
+         padding: "1rem",
          screens: {
             "2xl": "1280px",
          },
@@ -35,6 +35,8 @@ const config = {
          },
          colors: {
             coolGray: "#f2f4f8",
+            typography: "#21272A",
+            yellow: "#F1C21B",
          },
       },
    },

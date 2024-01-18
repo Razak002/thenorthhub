@@ -20,6 +20,6 @@ export const navLinks = [
 export const heroContents = {
    header: "Start your tech career with Northerm",
    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto velit repudiandae atque et, maxime repellendus dolores quasi. Delectus, id dolorum!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis dolore temporibus in, quo beatae provident eaque illum? Quia illum atque ab impedit libero! Sunt rem sint reiciendis possimus voluptas aut?",
    hub: "Hub",
 };
