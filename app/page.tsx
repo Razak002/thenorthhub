@@ -13,7 +13,7 @@ import {
 
 export default function Home() {
    return (
-      <>
+      <div>
          <HeroSection />
          <CoursesTestimony />
          <TNHIntro />
@@ -24,6 +24,6 @@ export default function Home() {
          <TheTNH />
          <CallToAction />
          <Footer />
-      </>
+      </div>
    );
 }
